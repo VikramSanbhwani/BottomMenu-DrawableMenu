@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/cap_checking"
+            android:title="Profile"
+            />
+
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/share"
+
+            android:icon="@drawable/cap_checking"
+
+            android:title="Share the app"
+
+            />
+
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/subscribe"
+
+            android:icon="@drawable/cap_checking"
+
+
+            android:title="Subscribe"
+
+            />
+
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/contact_us"
+
+            android:icon="@drawable/cap_checking"
+
+
+            android:title="Contact us"
+
+            />
+
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/feed_back"
+
+            android:icon="@drawable/cap_checking"
+
+
+            android:title="Help &amp; feedback"
+
+            />
+
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+
+            android:id="@+id/rate"
+            android:icon="@drawable/cap_checking"
+            android:title="Rate the app"
+
+            />
+
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/cap_checking"
+            android:title="About the team"
+
+            />
+
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/terms"
+            android:icon="@drawable/cap_checking"
+            android:title="Terms of services" />
+
+    </group>
+
+
+</menu>
+
